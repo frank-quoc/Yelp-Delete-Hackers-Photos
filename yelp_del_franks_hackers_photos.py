@@ -19,3 +19,4 @@ print(response.text)
 photo_id_start = ""
 photo_id_stop = ""
 ### PSEUDO CODE use a [] or a for loop or while loop to delete multiple photos
+### for i in range( ASK RONNY!!!
